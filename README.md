@@ -23,7 +23,7 @@ International University - HCMC - VietNam &#127483;&#127475;</h3>
 
 - 📫 How to reach me **nguyenhaingoc.work@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1afmbqEvNf0h9nQdkfxUjZVxzhDzlC9Aq/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href="[https://drive.google.com/file/d/1afmbqEvNf0h9nQdkfxUjZVxzhDzlC9Aq/view?usp=sharing](https://drive.google.com/file/d/1Lg5erFrkZi0l5zlpRgcf5qOlXwZSqvSN/view?usp=sharing)" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
