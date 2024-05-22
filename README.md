@@ -19,7 +19,7 @@ International University - HCMC - VietNam &#127483;&#127475;</h3>
 
 - 🌱 Here is link to my top repositories: <a href="https://github.com/haingocnguyen" target="blank">GitHub Link</a>
 
-- 💬 My Linkedin profile: <a href=<a href="https://github.com/haingocnguyen" target="blank">GitHub Link</a>" target="blank">haingocng</a>
+- 💬 My Linkedin profile: <a href="https://www.linkedin.com/in/haingocng/" target="blank">Linkedin Profile</a>
 
 - 📫 How to reach me **nguyenhaingoc.work@gmail.com**
 
