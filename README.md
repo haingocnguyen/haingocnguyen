@@ -48,7 +48,3 @@ International University - HCMC - VietNam &#127483;&#127475;</h3>
 </p>
 
 ---
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 22/05/2024
