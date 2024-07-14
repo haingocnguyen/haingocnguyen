@@ -25,6 +25,7 @@ International University - HCMC - VietNam &#127483;&#127475;</h3>
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1qfzTI6xK21-zzlRyjRF9vaw5-OVwxeF8/view?usp=sharing" target="blank">Resume</a>
 <br/>
+- 🌱 My portfolio website: <a href="https://haingocnguyen.github.io/" target="blank">Portfolio</a>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
